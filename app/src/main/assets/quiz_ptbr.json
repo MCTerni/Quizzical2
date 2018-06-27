@@ -1,0 +1,12 @@
+{
+  "questions": [
+    {
+      "answer": false,
+      "statement": "A LUA é feita de queijo"
+    },
+    {
+      "answer": true,
+      "statement": "A soma dos angulos internos de um triangulo é 180 graus"
+    }
+  ]
+}

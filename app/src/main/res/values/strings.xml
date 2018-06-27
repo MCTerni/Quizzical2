@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quizzical2</string>
+    <string name="hello_world">Hello World</string>
+    <string name="wrong_answer">Nope, wrong!!!</string>
+    <string name="correct_answer">Great, you are right!!!</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="question0">The moon is made of cheese</string>
+    <string name="question1">The sum of the internal angles of a triangle is 180</string>
+    <string name="quiz_json">quiz.json</string>
+    <string name="next_button">Next</string>
+    <string name="replay_button">Play again</string>
+    <string name="title_activity_list">ListActivity</string>
+
+</resources>

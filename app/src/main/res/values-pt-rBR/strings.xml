@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="hello_world">Alô Mundo</string>
+    <string name="wrong_answer">Resposta errada!!!</string>
+    <string name="correct_answer">Parabéns, você acertou!!!</string>
+    <string name="true_button">Verdadeiro</string>
+    <string name="false_button">Falso</string>
+    <string name="question0">A Lua é feita de queijo</string>
+    <string name="question1">A soma dos angulos internos de um triangulo é 180 graus</string>
+    <string name="quiz_json">quiz_ptbr.json</string>
+    <string name="next_button">Próxima</string>
+    <string name="replay_button">Jogar novamente</string>
+
+</resources>
